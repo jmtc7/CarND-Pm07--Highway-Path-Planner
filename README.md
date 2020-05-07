@@ -16,7 +16,7 @@ In particular, the **goals** of this project are implementing the following poin
 
 The outcome of this project was a program capable of driving a car in a simulated highway-like environment with other cars driving at different speeds following the imposed constraints (detailed in the *Technical Details* section). This can be visualized in the following **YouTube demo**, where the green dots are the 50 next car positions and on the right, some information is shown, such as velocity, accelerations and acceleration derivative (jerk).
 
-[![Demo video](https://img.youtube.com/vi/VXIrqPi8SK4/0.jpg)](https://www.youtube.com/watch?v=VXIrqPi8SK4)
+[![Demo video](pm07.gif)](https://www.youtube.com/watch?v=VXIrqPi8SK4)
 
 
 This work will be followed by a brief documentation/overview contained in this file. This project is a completed version of the sample project template provided by the Self-Driving Car Engineer Udemy's Nanodegree. The un-completed original version is [this repository](https://github.com/udacity/CarND-Path-Planning-Project).
